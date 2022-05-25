@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653459593 source:c:\users\daniq\onedrive\Робочий стіл\lab9 lebedko\modules_lebedko\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+
