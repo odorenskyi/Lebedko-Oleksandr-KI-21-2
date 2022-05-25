@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1653461447 source:c:\users\daniq\onedrive\Робочий стіл\lab9 lebedko\task_lebedko\main.cpp
+	<iostream>
+	<locale.h>
+	<windows.h>
+	"Modules_Lebedko.h"
+
+1653460489 c:\users\daniq\onedrive\Робочий стіл\lab9 lebedko\modules_lebedko\modules_lebedko.h
+
